@@ -89,7 +89,7 @@ h1 {
     background-repeat: no-repeat;
 }
 #home {
-    background-image: url("images/main-bg.jpg");
+    background-image: url("https://github.com/mkmk0723/AnnemikiCafe/blob/main/main-bg.jpg?raw=true");
 
 
     min-height: 100vh;
@@ -209,7 +209,7 @@ aside p {
 /* MENU
 --------------------------------------------- */
 #menu {
-    background-image: url("images/menu-bg.jpg");
+    background-image: url("https://github.com/mkmk0723/AnnemikiCafe/blob/main/menu-bg.jpg?raw=true");
     min-height: 100vh;
 }
 .menu-content {
@@ -246,7 +246,7 @@ aside p {
 /* CONTACT
 ------------------------------------------- */
 #contact {
-    background-image: url("images/contact-bg.jpg");
+    background-image: url("https://github.com/mkmk0723/AnnemikiCafe/blob/main/contact-bg.jpg?raw=true");
     min-height: 100vh;
 }
 /* フォーム */
